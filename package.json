@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a01-stefanodongowski/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a01-stefanodongowski#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a01-stefanodongowski#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }
